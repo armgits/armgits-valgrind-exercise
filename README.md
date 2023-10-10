@@ -3,7 +3,7 @@ ENPM808X - Abhishekh Reddy Munnangi, 119399002
 
 ## Running the exercise
 
-> **Note:** The steps assume that the user already has the environment for EMPM808x course.
+> **Note:** The steps assume that the user already has the environment for ENPM808x course.
 
 ### Clone this repository to your favorite directory
 
