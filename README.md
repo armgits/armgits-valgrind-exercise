@@ -56,7 +56,7 @@ Remove the build system including artifacts
 rm -rf build/
 ```
 
-## Exra credit responses
+## Extra credit responses
 
 #### 1. What happens when the executable is linked statically? Does Valgrind still detect those same bugs?
 
