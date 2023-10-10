@@ -56,6 +56,11 @@ Remove the build system including artifacts
 rm -rf build/
 ```
 
+Additional files and folders (if they exist)
+```bash
+rm -r .cache/ compile_commands.json
+```
+
 ## Extra credit responses
 
 #### 1. What happens when the executable is linked statically? Does Valgrind still detect those same bugs?
